@@ -1,0 +1,67 @@
+.phone {
+    border: 5px double grey;
+width: 902px;
+height: 698px;
+border-radius: 50px;
+background-color: antiquewhite;
+border-color: grey;
+box-shadow: 0px 0px 15px grey;
+
+}
+.camera{ border: 2px solid rgb(128, 128, 128);
+width: 5px;
+height: 5px;
+border-radius: 50%;
+background-color: black; 
+padding: 5px;
+margin: 10px auto;
+}
+
+
+.dynamic    {
+border: 2px solid rgb(128, 128, 128);
+width: 70px;
+height: 5px;
+border-radius: 20px;
+background-color: black;
+margin: 0 auto;
+
+}
+
+.screen{    
+border: 3px sold rgb(0, 0, 0);
+width: 90%;
+height: 80%;
+border-radius: 20px;
+background-color: black;
+margin: 0 auto;
+margin-top: 10px;
+background-image: url(https://forums.macrumors.com/attachments/5f522203-a9fc-4054-8a6c-b3d1184a07ca-jpeg.1801456/);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+}
+
+
+.button { border: 3px solid grey;
+    width:  30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: antiquewhite; 
+    padding: 5px;
+    margin: 10px auto;
+    }
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(https://oir.mobi/uploads/posts/2021-03/1616534980_38-p-fon-stol-44.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+
+}
